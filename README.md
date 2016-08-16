@@ -45,7 +45,7 @@ You can contact Sketch City about harassment. Feel free to use the email templat
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
+I am writing because of harassment at a Sketch City event, (NAME, PLACE, DATE OF EVENT). 
 
 You can reach me at (CONTACT INFO). Thank you.
 
